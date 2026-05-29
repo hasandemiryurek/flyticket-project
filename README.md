@@ -1,4 +1,4 @@
-<h1 align="center">✈️ FlyTicket - Flight Booking Application</h1>
+<h1 align="center"> FlyTicket - Flight Booking Application</h1>
 
 
 
@@ -6,7 +6,7 @@
 
 > A full-stack web application for booking flights across 81 cities in Türkiye. Developed as the CENG-3502 Dynamic Web Programming Final Project.
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 ### Frontend
 - **React 19 + Vite**
